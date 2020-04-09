@@ -53,8 +53,8 @@
 	coinjs.BCH_MAINNET = 'bitcoincash_mainnet'
 	coinjs.network = coinjs.BCH_MAINNET;
 
-	coinjs.TESTNET_URL = 'https://trest.bitcoin.com/v1';
-	coinjs.MAINNET_URL = 'https://rest.bitcoin.com/v1';
+	coinjs.TESTNET_URL = 'https://trest.bitcoin.com/v2';
+	coinjs.MAINNET_URL = 'https://rest.bitcoin.com/v2';
 
 	coinjs.bitcoincom = function() {
 		var r = {};
